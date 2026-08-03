@@ -54,7 +54,8 @@ Interactive Healthcare Dashboard
        ↓
 Business Insights
 
-# 🔍 Data Validation & Initial Data Exploration – Excel
+
+## 🔍 Data Validation & Initial Data Exploration – Excel
 
 Before starting the SQL analysis, the healthcare datasets were reviewed in Excel to understand the structure of the data and identify potential data-quality issues.
 
