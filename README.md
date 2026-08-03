@@ -392,3 +392,77 @@ The dashboard was designed so that slicer selections dynamically update the rele
 
 ### Patient & Clinical Insights
 ![image alt](https://github.com/smruthis/Healthcare-Analytics-SQL-PowerBI/blob/297ec33d29df78a5f69670670ee763192366c206/Power%20BI/Patients%20%26%20Clinical%20Insights.png)
+
+# 📈 Key Insights
+
+The analysis highlighted several important patterns across healthcare utilization, costs, payer activity, and patient demographics.
+
+## 🏥 Healthcare Utilization
+
+- **Ambulatory encounters** had the highest encounter volume, with approximately **12.5K encounters**.
+- **Outpatient encounters** followed with approximately **6.3K encounters**.
+- The analysis showed that healthcare utilization was concentrated in a few major encounter categories.
+
+## 💰 Healthcare Costs
+
+- Total claim cost was approximately **$101.51M**.
+- **Ambulatory encounters** contributed the highest total claim cost at approximately **$36M**.
+- **Urgent care** followed with approximately **$23M** in total claim cost.
+- Comparing encounter volume with claim cost helps identify areas where healthcare utilization and expenditure are concentrated.
+
+## 💳 Payer Analysis
+
+- **Medicare** had the highest encounter volume at approximately **11.4K encounters**.
+- **NO_INSURANCE** was the second-highest category with approximately **8.8K encounters**.
+- Total payer coverage was approximately **$31.10M**.
+- Payer-level analysis helps identify differences in encounter volume, claim costs, and coverage.
+
+## 👥 Patient Demographics
+
+- The dashboard showed **974 patients with encounters**.
+- Male patients: **494**
+- Female patients: **479**
+- Average patient age: approximately **74.21 years**.
+- The age-group analysis showed that the patient population was concentrated among older age groups.
+
+## 🩺 Clinical Patterns
+
+- **Viral sinusitis (disorder)** was the highest-volume condition/reason for encounters shown in the dashboard, with approximately **732 encounters**.
+- The Top Conditions analysis helps identify frequently occurring healthcare conditions that contribute to encounter volume.
+
+## 📅 Time-Based Trends
+
+- Yearly analysis was used to compare **encounter volume and claim costs over time**.
+- This helps identify changes in healthcare utilization and financial activity across different years.
+
+---
+
+# 💼 Business Impact
+
+The project demonstrates how healthcare data can be transformed into actionable insights that support operational and financial decision-making.
+
+The analysis can help healthcare teams:
+
+- Identify high-volume encounter types for **resource and capacity planning**.
+- Identify high-cost encounter categories for **further cost investigation**.
+- Understand **payer utilization and coverage patterns**.
+- Monitor changes in healthcare utilization and claim costs over time.
+- Understand **patient demographic patterns**.
+- Identify frequently occurring conditions or encounter reasons.
+- Investigate areas where additional operational or financial analysis may be required.
+
+### Example Business Applications
+
+**Resource Planning:**  
+High-volume encounter categories can help healthcare teams understand where staffing and operational capacity may be required.
+
+**Cost Monitoring:**  
+High-cost encounter types can be investigated further to understand the factors contributing to healthcare expenditure.
+
+**Payer Management:**  
+Payer-level analysis can help organizations understand encounter volumes, claim costs, and coverage patterns across different payers.
+
+**Clinical Planning:**  
+Frequently occurring conditions can help identify areas that may require additional clinical resources or deeper investigation.
+
+> **Note:** This is an analytics portfolio project. The business impact described above represents decisions the analysis could support; it does not claim that actual cost savings or operational improvements were implemented.
